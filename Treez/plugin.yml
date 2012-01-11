@@ -1,4 +1,7 @@
 name: Treez
 main: me.hammale.treez.treez
 version: 1.0
-author: hammale
+commands:
+  palmtree:
+    description:
+    usage: |
